@@ -3,7 +3,7 @@
 This project is a simple, two‑page prototype website designed to introduce beginners to foundational concepts in sustainable homestead management. It demonstrates my ability to plan, manage, and deliver a digital project using the principles from *Project Management for the Unofficial Project Manager* and the generalist mindset from *Range*. The repository includes all planning documents, the website prototype, and a final retrospective.
 
 ## Live Website
-[View the published site](https://github.com/LandonGarrett)
+[View the published site](https://landongarrett.github.io/Project-03--Final-Project/index.html)
 
 ## Project Documentation
 All planning documents are located in the `docs/` folder:
